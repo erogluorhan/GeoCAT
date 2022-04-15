@@ -2,14 +2,14 @@ menu:
   - title: Project Raijin
     url: /GeoCAT/pages/raijin.html
   - title: Software
-    url: /pages/software.html
+    url: /GeoCAT/pages/software.html
   - title: Documentation
-    url: /pages/documentation.html
+    url: /GeoCAT/pages/documentation.html
   - title: Contributing
-    url: /pages/contributing.html
+    url: /GeoCAT/pages/contributing.html
   - title: Support
-    url: /pages/support.html
+    url: /GeoCAT/pages/support.html
   - title: Citation
-    url: /pages/citation.html
+    url: /GeoCAT/pages/citation.html
   - title: Blog
-    url: /blog/
+    url: /GeoCAT/blog/
